@@ -1,4 +1,4 @@
-# EX_13_THREAD
+# Ex.No:13 THREAD
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
 
@@ -21,12 +21,12 @@ Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
-## Program to print the text “optionmenu”.
-## Developed by: SINDHUJA P
-## Registeration Number :  212222220047
-
-## MainActivity.java
+```
+Program to print the text “optionmenu”.
+Developed by: SINDHUJA P
+Registeration Number : 212222220047
+```
+# MainActivity.java
 ```
 package com.example.exp13;
 
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
-## activity_main.xml:
+# activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -133,10 +133,8 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## OUTPUT
-![OUTPUT](https://github.com/user-attachments/assets/0e69c689-ebbf-4a88-81a7-01a40adcdcf9)
+## OUTPUT:
+<img src="https://github.com/user-attachments/assets/08ce5657-3278-4a51-8672-450b8cb1458a" width=200>
 
-
-
-## RESULT
+## RESULT:
 The application is successfully displayed for thread synchronization concept with the help of clicking the button in Android Studio.
